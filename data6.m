@@ -1,0 +1,1 @@
+tmp1 = load ( [filename,'f_normal.txt'] ) ; 
